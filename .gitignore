@@ -13,3 +13,6 @@ editors/lapce/out/
 *.pdf
 .vscode/*.code-workspace
 refs/
+
+/tmp/
+/temp/
